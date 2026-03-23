@@ -1,0 +1,21 @@
+{
+  "name": "황달 수치 일기",
+  "short_name": "황달일기",
+  "description": "신생아 TSB 수치 트래킹 + Bhutani 노모그램",
+  "start_url": "/bilirubin-diary/",
+  "display": "standalone",
+  "background_color": "#fffbf0",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "/bilirubin-diary/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/bilirubin-diary/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
